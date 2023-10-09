@@ -1,11 +1,10 @@
 {
   "name": "@franknolasco/react-core-elements",
-  "version": "0.0.2",
+  "version": "0.0.1",
   "type": "module",
   "types": "dist/index.d.ts",
   "typings": "dist/index.d.ts",
   "main": "dist/index.js",
-  "private": "false",
   "license": "MIT",
   "homepage": "https://franknolasco.github.io/Portafolio/",
   "repository": {

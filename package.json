@@ -1,5 +1,5 @@
 {
-  "name": "@franknolasco/react-core-elements",
+  "name": "fnv-core-elements",
   "version": "0.0.1",
   "type": "module",
   "types": "dist/index.d.ts",

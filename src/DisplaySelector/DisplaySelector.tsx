@@ -1,6 +1,6 @@
 import React from "react";
-import { Grid } from "../../atoms/Grid/Grid";
-import { Column, Flex, Row } from "../../atoms/Flex/Flex";
+import { Grid } from "../Grid/Grid";
+import { Column, Flex, Row } from "../Flex/Flex";
 
 export interface IDispSelect {
   type: "grid" | "flex" | "column" | "row" | "row-wrap" | undefined;

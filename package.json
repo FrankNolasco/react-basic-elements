@@ -16,16 +16,6 @@
       "production"
     ]
   },
-  "exports": {
-    ".": {
-      "require": "./dist/react-basic-elements.cjs",
-      "import": "./dist/react-basic-elements.es.js"
-    },
-    "./styles.css": {
-      "require": "./dist/styles.css",
-      "default": "./dist/styles.css"
-    }
-  },
   "files": [
     "dist"
   ],
